@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, serif;
+    background-image: url('bg.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .container {
+      max-width: 500px;
+  margin-left: 600px;
+  margin-top: 80px;
+  padding: 50px;
+  background-color: #b8e600;
+  border-radius: 5px;
+  height: 350px;
+  border: 2px solid;
+  border-radius: 1.5cm;
+  border-width: 8px;
+  border-color: #196817;
+  }
+  h1 {
+    text-align: center;
+    color: rgb(99, 13, 196);
+  }
+  .input-group {
+    margin-bottom: 10px;
+  }
+  .input-group label {
+    display: block;
+    margin-bottom: 5px;
+    color: Red;
+    font-weight: 600;
+  }
+  .input-group input {
+    width: 100%;
+    padding: 5px;
+    border-radius: 3px;
+    border: 1px solid #ccc;
+  }
+  #celsius , #fahrenheit{
+    border-radius: 2cm;
+    height: 30px;
+  }
